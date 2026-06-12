@@ -9,7 +9,7 @@ until a fixed point is reached (a group isomorphic to its own automorphism group
 ## 📁 Repository Structure
 
 The repository is organized as follows:
-
+```
 automorphisms-tower-problem/
 ├── docs/
 │   └── relazioneLABCOMP.pdf   # Scientific report and project documentation
@@ -17,7 +17,7 @@ automorphisms-tower-problem/
 │   └── torre.g               # Main source code in the GAP environment
 └── gap-packages/
     └── [pacchetti per gap]    # Required GAP packages and dependencies
-
+```
 ---
 
 ## 🛠️ Requirements and Dependencies
